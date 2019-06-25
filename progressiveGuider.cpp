@@ -1,8 +1,3 @@
-/*
-ID: dorijan1
-TASK: tu napisi ime zadatka molim te molim te ali samo ako si na usaco training
-LANG: C++11
-*/
 #include <bits/stdc++.h>
 
 using namespace std;
