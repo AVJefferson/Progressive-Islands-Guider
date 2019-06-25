@@ -1,0 +1,1878 @@
+Quest 250 cells(r5):
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+On 250 cells(r5), use 488 gems after 2 collections, not including the first one.
+Total gem cost: 5667 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+On 250 cells(r5), use 488 gems after 2 collections, not including the first one.
+Total gem cost: 5863 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+On 250 cells(r5), use 488 gems after 2 collections, not including the first one.
+Total gem cost: 6061 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+On 250 cells(r5), use 488 gems after 2 collections, not including the first one.
+Total gem cost: 6261 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+On 250 cells(r5), use 693 gems after 1 collection, not including the first one.
+Total gem cost: 6466 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+On 250 cells(r5), use 693 gems after 1 collection, not including the first one.
+Total gem cost: 6674 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+On 250 cells(r5), use 693 gems after 1 collection, not including the first one.
+Total gem cost: 6890 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+On 250 cells(r5), use 693 gems after 1 collection, not including the first one.
+Total gem cost: 7123 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+On 250 cells(r5), use 693 gems after 1 collection, not including the first one.
+Total gem cost: 7361 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+On 250 cells(r5), use 934 gems after 0 collections, not including the first one.
+Total gem cost: 7602 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 846 gems after 0 collections, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+On 250 cells(r5), use 934 gems after 0 collections, not including the first one.
+Total gem cost: 7848 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 846 gems after 0 collections, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 837 gems after 0 collections, not including the first one.
+On 250 cells(r5), use 934 gems after 0 collections, not including the first one.
+Total gem cost: 8103 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 230 cells:
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+Total gem cost: 4817 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+Total gem cost: 4996 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+Total gem cost: 5179 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+Total gem cost: 5375 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+Total gem cost: 5573 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 374 gems after 2 collections, not including the first one.
+Total gem cost: 5773 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+Total gem cost: 5981 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+Total gem cost: 6197 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+Total gem cost: 6430 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+Total gem cost: 6668 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 846 gems after 0 collections, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 582 gems after 1 collection, not including the first one.
+Total gem cost: 6914 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 846 gems after 0 collections, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+On 230 cells, use 837 gems after 0 collections, not including the first one.
+Total gem cost: 7169 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 190 cells(r4):
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 241 gems after 3 collections, not including the first one.
+On 190 cells(r4), use 288 gems after 3 collections, not including the first one.
+Total gem cost: 4124 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 288 gems after 3 collections, not including the first one.
+Total gem cost: 4283 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+Total gem cost: 4443 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+Total gem cost: 4622 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 448 gems after 2 collections, not including the first one.
+Total gem cost: 4805 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+Total gem cost: 5001 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+Total gem cost: 5199 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+Total gem cost: 5399 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 644 gems after 1 collection, not including the first one.
+Total gem cost: 5615 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+Total gem cost: 5848 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+Total gem cost: 6086 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 846 gems after 0 collections, not including the first one.
+On 190 cells(r4), use 877 gems after 0 collections, not including the first one.
+Total gem cost: 6332 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 180 cells:
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+On 180 cells, use 241 gems after 3 collections, not including the first one.
+Total gem cost: 3370 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+On 180 cells, use 241 gems after 3 collections, not including the first one.
+Total gem cost: 3522 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+On 180 cells, use 241 gems after 3 collections, not including the first one.
+Total gem cost: 3677 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 241 gems after 3 collections, not including the first one.
+Total gem cost: 3836 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+Total gem cost: 3995 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+Total gem cost: 4174 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+Total gem cost: 4357 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 400 gems after 2 collections, not including the first one.
+Total gem cost: 4555 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+Total gem cost: 4755 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+Total gem cost: 4971 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 600 gems after 1 collection, not including the first one.
+Total gem cost: 5209 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+On 180 cells, use 846 gems after 0 collections, not including the first one.
+Total gem cost: 5455 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 160 cells(r3):
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+Total gem cost: 2701 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+Total gem cost: 2837 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+Total gem cost: 2981 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+Total gem cost: 3129 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+Total gem cost: 3281 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 255 gems after 3 collections, not including the first one.
+Total gem cost: 3436 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+Total gem cost: 3595 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+Total gem cost: 3774 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 414 gems after 2 collections, not including the first one.
+Total gem cost: 3957 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+Total gem cost: 4155 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 612 gems after 1 collection, not including the first one.
+Total gem cost: 4371 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+On 160 cells(r3), use 850 gems after 0 collections, not including the first one.
+Total gem cost: 4609 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 130 cells:
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 220 gems after 4 collections, not including the first one.
+Total gem cost: 2082 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 220 gems after 4 collections, not including the first one.
+Total gem cost: 2197 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 220 gems after 4 collections, not including the first one.
+Total gem cost: 2321 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+Total gem cost: 2446 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+Total gem cost: 2582 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+Total gem cost: 2726 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+Total gem cost: 2874 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 345 gems after 3 collections, not including the first one.
+Total gem cost: 3026 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+Total gem cost: 3181 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 500 gems after 2 collections, not including the first one.
+Total gem cost: 3360 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 683 gems after 1 collection, not including the first one.
+Total gem cost: 3543 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+On 130 cells, use 899 gems after 0 collections, not including the first one.
+Total gem cost: 3759 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 75 cells(r2):
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 114 gems after 3 collections, not including the first one.
+Total gem cost: 1430 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 114 gems after 3 collections, not including the first one.
+Total gem cost: 1536 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 114 gems after 3 collections, not including the first one.
+Total gem cost: 1642 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+Total gem cost: 1749 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+Total gem cost: 1862 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+Total gem cost: 1977 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+Total gem cost: 2101 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 221 gems after 2 collections, not including the first one.
+Total gem cost: 2237 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+Total gem cost: 2381 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+Total gem cost: 2529 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 365 gems after 1 collection, not including the first one.
+Total gem cost: 2681 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+On 75 cells(r2), use 544 gems after 0 collections, not including the first one.
+Total gem cost: 2860 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 75 cells:
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 114 gems after 3 collections, not including the first one.
+Total gem cost: 1040 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 114 gems after 3 collections, not including the first one.
+Total gem cost: 1130 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 114 gems after 3 collections, not including the first one.
+Total gem cost: 1221 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+Total gem cost: 1316 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+Total gem cost: 1422 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+Total gem cost: 1528 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+Total gem cost: 1641 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 209 gems after 2 collections, not including the first one.
+Total gem cost: 1756 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+Total gem cost: 1880 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+Total gem cost: 2016 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 333 gems after 1 collection, not including the first one.
+Total gem cost: 2164 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+On 75 cells, use 485 gems after 0 collections, not including the first one.
+Total gem cost: 2316 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 60 cells(r1):
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+On 60 cells(r1), use 68 gems after 3 collections, not including the first one.
+Total gem cost: 689 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+On 60 cells(r1), use 68 gems after 3 collections, not including the first one.
+Total gem cost: 765 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+Total gem cost: 845 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+Total gem cost: 926 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+Total gem cost: 1016 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+Total gem cost: 1107 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+Total gem cost: 1213 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 148 gems after 2 collections, not including the first one.
+Total gem cost: 1319 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+Total gem cost: 1432 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+Total gem cost: 1547 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 261 gems after 1 collection, not including the first one.
+Total gem cost: 1683 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+On 60 cells(r1), use 409 gems after 0 collections, not including the first one.
+Total gem cost: 1831 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 60 cells:
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 97 gems after 3 collections, not including the first one.
+On 50 cells(r0), use 142 gems after 4 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+Total gem cost: 415 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 97 gems after 3 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+Total gem cost: 478 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+Total gem cost: 549 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+Total gem cost: 621 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+On 60 cells, use 98 gems after 3 collections, not including the first one.
+Total gem cost: 697 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+Total gem cost: 778 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+Total gem cost: 868 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+Total gem cost: 959 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 179 gems after 2 collections, not including the first one.
+Total gem cost: 1065 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+Total gem cost: 1171 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 285 gems after 1 collection, not including the first one.
+Total gem cost: 1286 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+On 60 cells, use 421 gems after 0 collections, not including the first one.
+Total gem cost: 1422 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 50 cells(r0):
+On 20 cells, use 32 gems after 2 collections, not including the first one.
+On 30 cells, use 45 gems after 4 collections, not including the first one.
+On 50 cells(r0), use 90 gems after 5 collections, not including the first one.
+Total gem cost: 167 gems.
+Total collections(not including the first one on each node): 11.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 45 gems after 4 collections, not including the first one.
+On 50 cells(r0), use 90 gems after 5 collections, not including the first one.
+Total gem cost: 213 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 97 gems after 3 collections, not including the first one.
+On 50 cells(r0), use 90 gems after 5 collections, not including the first one.
+Total gem cost: 265 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 97 gems after 3 collections, not including the first one.
+On 50 cells(r0), use 142 gems after 4 collections, not including the first one.
+Total gem cost: 317 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 97 gems after 3 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+Total gem cost: 380 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+Total gem cost: 451 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 205 gems after 3 collections, not including the first one.
+Total gem cost: 523 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 281 gems after 2 collections, not including the first one.
+Total gem cost: 599 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+Total gem cost: 689 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 371 gems after 1 collection, not including the first one.
+Total gem cost: 780 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+Total gem cost: 886 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+On 50 cells(r0), use 477 gems after 0 collections, not including the first one.
+Total gem cost: 1001 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 30 cells:
+On 20 cells, use 0 gems after 4 collections, not including the first one.
+On 30 cells, use 1 gems after 6 collections, not including the first one.
+Total gem cost: 1 gems.
+Total collections(not including the first one on each node): 10.
+
+
+On 20 cells, use 6 gems after 3 collections, not including the first one.
+On 30 cells, use 1 gems after 6 collections, not including the first one.
+Total gem cost: 7 gems.
+Total collections(not including the first one on each node): 9.
+
+
+On 20 cells, use 6 gems after 3 collections, not including the first one.
+On 30 cells, use 14 gems after 5 collections, not including the first one.
+Total gem cost: 20 gems.
+Total collections(not including the first one on each node): 8.
+
+
+On 20 cells, use 32 gems after 2 collections, not including the first one.
+On 30 cells, use 14 gems after 5 collections, not including the first one.
+Total gem cost: 46 gems.
+Total collections(not including the first one on each node): 7.
+
+
+On 20 cells, use 32 gems after 2 collections, not including the first one.
+On 30 cells, use 45 gems after 4 collections, not including the first one.
+Total gem cost: 77 gems.
+Total collections(not including the first one on each node): 6.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 45 gems after 4 collections, not including the first one.
+Total gem cost: 123 gems.
+Total collections(not including the first one on each node): 5.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 97 gems after 3 collections, not including the first one.
+Total gem cost: 175 gems.
+Total collections(not including the first one on each node): 4.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+Total gem cost: 246 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 168 gems after 2 collections, not including the first one.
+Total gem cost: 318 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 259 gems after 1 collection, not including the first one.
+Total gem cost: 409 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+On 30 cells, use 374 gems after 0 collections, not including the first one.
+Total gem cost: 524 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quest 20 cells:
+On 20 cells, use 6 gems after 3 collections, not including the first one.
+Total gem cost: 6 gems.
+Total collections(not including the first one on each node): 3.
+
+
+On 20 cells, use 32 gems after 2 collections, not including the first one.
+Total gem cost: 32 gems.
+Total collections(not including the first one on each node): 2.
+
+
+On 20 cells, use 78 gems after 1 collection, not including the first one.
+Total gem cost: 78 gems.
+Total collections(not including the first one on each node): 1.
+
+
+On 20 cells, use 150 gems after 0 collections, not including the first one.
+Total gem cost: 150 gems.
+Total collections(not including the first one on each node): 0.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
