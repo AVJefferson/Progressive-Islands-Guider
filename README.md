@@ -225,3 +225,10 @@ ignore190 cells(r4)
 ignore230 cells
 
 ignore250 cells(r5)
+
+
+
+
+
+This program is made in C++ so you can use the C++ compiler of your choice to compile it. 
+
