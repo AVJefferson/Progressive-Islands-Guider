@@ -8,51 +8,68 @@ typedef long long int ll;
 
 struct Guider {
 
-	int m[1001],HAR,l,a,n;
-	int pr1[1001][1001];
+	int m[1001],HAR,l,a,n,actualLength,positionOfScroll=10000;
+	int pr1[1001][1001],everyHowHours;
 	int h[1001][1001],mi[1001][1001],s[1001][1001]; //not memset
 	int ti[51][30001];
-	int pr2[1001][1001]; //not memset
-	int dp[51][30001];
-	vector<int> ho[51][30001];
+	int pr2[1001][1001]; //amount of gems for some collection
+	int dp[31][30001];
+	vector<pair<int,int>> ho[31][30001]; //choice, time spent
 	bool bio[51][30001];
 	int mat[1001];
 	int wh[1001];
 	int re[1001];
 	int mgc=0;
-	string names[51],name[51];
+	string names[51],name[51]; //names is the input, name is what is use in the output
 	const int MAXGEMS=200000;
 	
-	int dp1(int i,int j)
+	int dp1(int i,int j) //i is quest, j is time remaining
 	{
 		if (j<0) return MAXGEMS;
 		if (i<0) return 0;
 		if (bio[i][j]) return dp[i][j];
 		bio[i][j]=1;
-		int mi=-1;
+		int mi=-1,tS=-1,tL=-1;
 		for (int k=0;k<m[i];++k)
 		{
+			int timeSpent=pr1[i][k];
+			int timeLeft=j-pr1[i][k];
 			if (i==0 && pr1[i][k]<HAR*60) continue;
-			if (mi==-1 || pr2[i][k]+dp1(i-1,j-pr1[i][k])<pr2[i][mi]+dp1(i-1,j-pr1[i][mi]) ||
-				((pr2[i][k]+dp1(i-1,j-pr1[i][k])==pr2[i][mi]+dp1(i-1,j-pr1[i][mi])) && (ti[i-1][j-pr1[i][k]]<ti[i-1][j-pr1[i][mi]]))) mi=k;
+			if (timeLeft<1440 && i>positionOfScroll && everyHowHours<8 && !(everyHowHours==4 && timeSpent%8==4))
+			{
+				int scrollTime=min(j,1440)-timeLeft;
+				timeSpent-=scrollTime/2;
+				timeLeft+=scrollTime/2;
+			}
+			if (timeLeft<0) continue;
+			if (mi==-1 || //first valid possibility
+				pr2[i][k]+dp1(i-1,timeLeft)<pr2[i][mi]+dp1(i-1,tL) ||  //this possibility is cheaper than the previous best one
+				(pr2[i][k]+dp1(i-1,timeLeft)==pr2[i][mi]+dp1(i-1,tL) && //this possibility is has the same cost as the previous best one
+				(ti[i-1][timeLeft]<ti[i-1][tL]))) //time spent is smaller
+			{
+				mi=k;
+				tS=timeSpent;
+				tL=timeLeft;
+			}
 		}
-		if (j-pr1[i][mi]<0) return dp[i][j]=MAXGEMS;
 		if (mi==-1) return dp[i][j]=MAXGEMS;
+		if (tL<0) return dp[i][j]=MAXGEMS;
+		if (dp1(i-1,tL)>=MAXGEMS) return dp[i][j]=MAXGEMS;
 		if (i==0)
 		{
-			vector<int> o;
-			o.push_back(mi);
+			vector<pair<int,int>> o;
+			o.push_back(make_pair(mi,tS));
 			ho[i][j]=o;
-			ti[i][j]=pr1[i][mi];
+			ti[i][j]=tS;
 		}
 		else
 		{
-			vector<int> o=ho[i-1][j-pr1[i][mi]];
-			o.push_back(mi);
+			vector<pair<int,int>> o=ho[i-1][tL];
+			o.push_back(make_pair(mi,tS));
 			ho[i][j]=o;
-			ti[i][j]=pr1[i][mi]+ti[i-1][j-pr1[i][mi]];
+			ti[i][j]=tS+ti[i-1][tL];
 		}
-		return dp[i][j]=pr2[i][mi]+dp1(i-1,j-pr1[i][mi]);
+		return dp[i][j]=pr2[i][mi]+dp1(i-1,tL);
 	}
 	
 	void init()
@@ -73,6 +90,7 @@ struct Guider {
 		{
 			if (names[i].substr(0,6)=="ignore") name[i]=names[i].substr(6);
 			else name[i]=names[i];
+			if (name[i]=="scroll") positionOfScroll=i-1;
 		}
 		l*=1440;
 		l+=a*60;
@@ -87,15 +105,15 @@ struct Guider {
 				pr1[i][j]=h[i][j]*1440+mi[i][j]*60+s[i][j];
 			}
 		}
+		everyHowHours=mi[0][1];
 		for (int i=n-1;i>=0;--i)
 		{
 			mat[i]=mat[i+1]+pr1[i][m[i]-1];
 		}
-		l+=2880;
-		int zzqw=l;
+		actualLength=l;
 		while (n)
 		{
-			l=zzqw;
+			l=actualLength;
 			if (names[n].substr(0,6)=="ignore")
 			{
 				--n;
@@ -121,10 +139,14 @@ struct Guider {
 				for (int i=0;i<n;++i)
 				{
 					//cout<<ho[n-1][l].size()<<en;
-					re[i]=ho[n-1][l][i];
-					if (mi[i][re[i]]%8)
+					re[i]=ho[n-1][l][i].first;
+					int tim=ho[n-1][l][i].second;
+					//cerr<<re[i]<<' '<<ho[n-1][l].size()<<' '<<mgc<<endl;
+					if (mi[i][re[i]]%8 || tim!=h[i][re[i]]*1440+mi[i][re[i]]*60)
 					{
-						fout<<"On "<<name[i+1]<<", use "<<pr2[i][re[i]]<<" gems at "<<h[i][re[i]]<<" days and "<<mi[i][re[i]]<<" hours."<<endl;
+						int minu=(tim/60)%24;
+						int hours=tim/1440;
+						fout<<"On "<<name[i+1]<<", use "<<pr2[i][re[i]]<<" gems at "<<hours<<" days and "<<minu<<" hours."<<endl;
 						ima=1;
 					}
 					else
