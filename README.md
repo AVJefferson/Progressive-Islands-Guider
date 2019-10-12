@@ -104,7 +104,7 @@ The 14th number is 0 if you can collect the first collection and 1 if you can't.
 
 After all these lines follows a line with 3 numbers. The first number is the minimum number of hours between the first collection and the first time gems were spent. For example, if it's optimal to spend gems after 4 hours and you set this number to 8, the guider will make a strategy which spends gems after 8 hours, even if 4 is usually better. The second number is the number of days the island lasts(subtract 1 if you use boost scroll and 2 if you don't) and the third number is the number of hours the island lasts. Even if the island lasts exactly 4 days, it makes more sense to write 1 16 than 2 0 because 2 0 requires inhumanely perfect collections and may not be possible.
 
-After that is 1 line for each node. In that line is the node's name. You can add "ignore" at the beginning of the name if you don't want to see the strategy to get to that node.
+After that is 1 line for each node. In that line is the node's name. You can add "ignore" at the beginning of the name if you don't want to see the strategy to get to that node. If the name is "scroll"(or "ignorescroll") then the boost scroll is the reward for completing that node.
 
 Finally, here is an example for guiding for a r5 wyrmlad if you collect every hour and didn't use gems the first 4 hours:
 
@@ -225,6 +225,78 @@ ignore190 cells(r4)
 ignore230 cells
 
 ignore250 cells(r5)
+
+Here's an example of getting r2 Hookuai, collecting every 4 hours and with no restrictions on gem use:
+
+4
+
+16
+
+14 8 3 0 2 0 95 1 1 3 34 34 1 0
+
+20 11 0 3 0 4 113 1 1 3 34 34 1 0
+
+13 7 0 0 2 3 63 1 1 3 34 34 1 0
+
+13 7 3 2 0 3 70 1 1 3 34 34 1 0
+
+29 16 0 4 0 6 162 1 1 3 34 34 1 0
+
+65 36 3 0 9 0 510 1 1 3 34 34 1 0
+
+33 18 0 5 5 0 364 1 1 3 34 34 1 0
+
+39 21 0 6 6 0 489 1 1 3 34 34 1 0
+
+38 21 3 6 6 0 365 1 1 3 34 34 1 0
+
+40 22 0 6 6 0 496 1 14 3 34 34 1 0
+
+44 24 3 6 6 0 598 1 14 3 34 34 1 0
+
+55 30 0 8 8 0 742 1 14 3 34 34 1 0
+
+49 27 0 7 7 0 742 1 14 3 34 34 1 0
+
+51 28 0 7 7 0 960 1 14 3 34 34 1 0
+
+49 27 0 7 7 0 1335 1 14 3 34 34 1 0
+
+49 27 0 7 7 0 1186 1 14 3 34 34 1 0
+
+0 3 16
+
+ignorechest 1
+
+ignorechest 2
+
+ignorescroll
+
+ignore15 cells
+
+ignore20 cells
+
+ignore65 cells(r0)
+
+ignore60 cells
+
+ignore60 cells(r1)
+
+ignore75 cells
+
+75 cells(r2)
+
+ignore130 cells
+
+ignore160 cells(r3)
+
+ignore180 cells
+
+ignore190 cells(r4)
+
+ignore320 cells
+
+ignore420 cells(r5)
 
 
 
