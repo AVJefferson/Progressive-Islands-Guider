@@ -2,7 +2,7 @@
 
 This program reads info about the progressive island from the file progressiveInput.txt and writes the guide into progressiveGuider.txt. It also makes a log in log.txt which is in most cases useless and unreadable but what you can easily read are the discount values; if you get a decimal number as a discount value you probably entered something wrong or maybe SP is just stupid. Anyway, here's what should go into progressiveInput.txt:
 
-First line - 2 numbers: how often do you log into the game(in hours; only 1 and 8 are tested, 2 and 4 should also work and i have no idea whether any other number works) and the number of nodes.
+First line - 2 numbers: how often do you log into the game(in hours; only 1, 4 and 8 are tested, 2 should also work and i have no idea whether any other number works) and the number of nodes.
 
 Then, for each node you have 1 line. In that line:
 
@@ -102,7 +102,7 @@ The 13th number is the type of PvP collection. For now there is only 1 type:
 
 The 14th number is 0 if you can collect the first collection and 1 if you can't. Using 1 is useful when, for example, you have already made some progress and want to know what's the best way to collect until the end.
 
-After all these lines follows a line with 3 numbers. The first number is the minimum number of hours between the first collection and the first time gems were spent. For example, if it's optimal to spend gems after 4 hours and you set this number to 8, the guider will make a strategy which spends gems after 8 hours, even if 4 is usually better. The second number is the number of days the island lasts(subtract 1 if you use boost scroll and 2 if you don't) and the third number is the number of hours the island lasts. Even if the island lasts exactly 4 days, it makes more sense to write 1 16 than 2 0 because 2 0 requires inhumanely perfect collections and may not be possible.
+After all these lines follows a line with 3 numbers. The first number is the minimum number of hours between the first collection and the first time gems were spent. For example, if it's optimal to spend gems after 4 hours and you set this number to 8, the guider will make a strategy which spends gems after 8 hours, even if 4 is usually better. The second number is the number of days the island lasts and the third number is the number of hours the island lasts. Even if the island lasts exactly 4 days, it makes more sense to write 3 16 than 4 0 because 4 0 requires inhumanely perfect collections and may not be possible.
 
 After that is 1 line for each node. In that line is the node's name. You can add "ignore" at the beginning of the name if you don't want to see the strategy to get to that node. If the name is "scroll"(or "ignorescroll") then the boost scroll is the reward for completing that node.
 
@@ -138,7 +138,7 @@ Finally, here is an example for guiding for a r5 wyrmlad if you collect every ho
 
 53 29 0 8 8 0 1211 1 14 3 34 34 1 0
 
-4 1 16
+4 3 16
 
 ignore20 cells
 
@@ -198,7 +198,7 @@ And here's an example if you're going for a r0 wyrmlad, collect every 8 hours an
 
 53 29 0 8 8 0 1211 1 14 3 34 34 1 0
 
-0 1 16
+0 3 16
 
 ignore20 cells
 
